@@ -20,12 +20,16 @@ xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
 mc:Ignorable="w14 w15 wp14">
   <w:body>
     <w:p w14:paraId="066EFD45" w14:textId="0F435C71"
-    w:rsidR="00EE499B" w:rsidRDefault="007B31A8">
+    w:rsidR="00EE499B" w:rsidRDefault="007B31A8"
+    w:rsidP="00612FB9">
+      <w:pPr>
+        <w:pStyle w:val="MyStyle" />
+      </w:pPr>
+      <w:bookmarkStart w:id="0" w:name="_GoBack" />
+      <w:bookmarkEnd w:id="0" />
       <w:r>
         <w:t>Hello world</w:t>
       </w:r>
-      <w:bookmarkStart w:id="0" w:name="_GoBack" />
-      <w:bookmarkEnd w:id="0" />
     </w:p>
     <w:sectPr w:rsidR="00EE499B" w:rsidSect="009A4493">
       <w:pgSz w:w="12240" w:h="15840" />

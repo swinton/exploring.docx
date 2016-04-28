@@ -783,4 +783,11 @@ mc:Ignorable="w14 w15">
     <w:semiHidden />
     <w:unhideWhenUsed />
   </w:style>
+  <w:style w:type="paragraph" w:customStyle="1"
+  w:styleId="MyStyle">
+    <w:name w:val="My Style" />
+    <w:basedOn w:val="Normal" />
+    <w:qFormat />
+    <w:rsid w:val="00612FB9" />
+  </w:style>
 </w:styles>
