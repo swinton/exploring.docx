@@ -3,9 +3,9 @@
 xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
 
   <Template>Normal.dotm</Template>
-  <TotalTime>1</TotalTime>
+  <TotalTime>0</TotalTime>
   <Pages>1</Pages>
-  <Words>2</Words>
+  <Words>1</Words>
   <Characters>12</Characters>
   <Application>Microsoft Macintosh Word</Application>
   <DocSecurity>0</DocSecurity>
@@ -13,7 +13,7 @@ xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
   <Paragraphs>1</Paragraphs>
   <ScaleCrop>false</ScaleCrop>
   <LinksUpToDate>false</LinksUpToDate>
-  <CharactersWithSpaces>13</CharactersWithSpaces>
+  <CharactersWithSpaces>12</CharactersWithSpaces>
   <SharedDoc>false</SharedDoc>
   <HyperlinksChanged>false</HyperlinksChanged>
   <AppVersion>15.0000</AppVersion>
