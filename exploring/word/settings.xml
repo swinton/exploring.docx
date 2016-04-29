@@ -11,7 +11,6 @@ xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
 xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main"
 mc:Ignorable="w14 w15">
   <w:zoom w:percent="153" />
-  <w:proofState w:spelling="clean" w:grammar="clean" />
   <w:defaultTabStop w:val="720" />
   <w:characterSpacingControl w:val="doNotCompress" />
   <w:savePreviewPicture />
@@ -29,7 +28,6 @@ mc:Ignorable="w14 w15">
   </w:compat>
   <w:rsids>
     <w:rsidRoot w:val="00A51BA4" />
-    <w:rsid w:val="00612FB9" />
     <w:rsid w:val="007B31A8" />
     <w:rsid w:val="009A4493" />
     <w:rsid w:val="00A51BA4" />
